@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="KANO - AI tools, gateways and anime-inspired experiments" width="100%">
+  <img src="assets/profile-banner.png" alt="KANO - developer tools, gateways and local workflows" width="100%">
 </p>
 
 ## Hi, I'm KANO / 你好，我是 KANO
 
-I build practical AI gateways and agent tools, then give them a little anime soul.
+I build practical developer tools and protocol gateways with a focus on reliable local workflows.
 
-我专注于实用的 AI 网关与 Agent 工具，也喜欢为它们加入一点二次元灵魂。
+我专注于实用的开发工具与协议网关，并持续打磨可靠的本地工作流。
 
 ### Stack / 技术栈
 
@@ -23,15 +23,15 @@ I build practical AI gateways and agent tools, then give them a little anime sou
   <tr>
     <td colspan="2">
       <h3><a href="https://github.com/KanoNoUta/thief-neko">Thief Neko</a></h3>
-      <p>A local Catpaw gateway and desktop controller that connects Claude Code and Codex to GLM models.</p>
-      <p>连接 Claude Code、Codex 与 GLM 模型的本地 Catpaw 网关及桌面控制器。</p>
+      <p>A local protocol gateway and desktop controller for connecting development clients to custom services.</p>
+      <p>用于连接开发客户端与自定义服务的本地协议网关和桌面控制器。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/KanoNoUta/Gensokyo">Gensokyo</a></h3>
-      <p>An anime-inspired theme full of Gensokyo.</p>
-      <p>一款充满幻想乡气息的二次元主题。</p>
+      <h3><a href="https://github.com/KanoNoUta/KanoACR">KanoACR</a></h3>
+      <p>Release repository for KANO PromeRotation ACR.</p>
+      <p>KANO PromeRotation ACR 的版本发布仓库。</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/KanoNoUta/kanonouta-blog">Kano no Uta Blog</a></h3>
@@ -43,12 +43,12 @@ I build practical AI gateways and agent tools, then give them a little anime sou
 
 ## Current focus / 当前方向
 
-`Protocol adapters` · `Agent tool loops` · `Local AI workflows`
+`Protocol adapters` · `Tool integrations` · `Local workflows`
 
-Building reliable protocol adapters and tool loops for coding agents.
+Building reliable protocol adapters and tool integrations for developer workflows.
 
-正在打磨更可靠的协议适配、工具调用循环与本地 AI 工作流。
+正在打磨更可靠的协议适配、工具集成与本地开发工作流。
 
 <p align="center">
-  <sub>Code with utility. Design with personality.<br>让工具真正有用，也让它保留一点自己的性格。</sub>
+  <sub>Code with utility. Design with clarity.<br>让工具真正有用，也让设计保持清晰。</sub>
 </p>
