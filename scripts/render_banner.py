@@ -54,4 +54,4 @@ draw.text(
     font=load_font(13),
     fill="#FF7B9C",
 )
-canvas.save(ASSETS / "profile-banner.png", optimize=True)
+canvas.save(ASSETS / "profile-banner-v2.png", optimize=True)

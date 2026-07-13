@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="KANO - developer tools, gateways and local workflows" width="100%">
+  <img src="assets/profile-banner-v2.png" alt="KANO - developer tools, gateways and local workflows" width="100%">
 </p>
 
 ## Hi, I'm KANO / 你好，我是 KANO
