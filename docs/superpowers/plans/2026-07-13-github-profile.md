@@ -2,11 +2,11 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Publish a concise bilingual GitHub profile with a repository-owned anime-inspired banner, clear AI-tool positioning, featured projects, and resilient statistics.
+**Goal:** Publish a concise bilingual GitHub profile with a repository-owned anime-inspired banner, clear AI-tool positioning, and featured projects.
 
-**Architecture:** The special `KanoNoUta/KanoNoUta` repository supplies the public profile through its root `README.md`. A deterministic Pillow script combines the existing GitHub avatar with a mint-and-sakura banner committed under `assets/`; the README uses GitHub-compatible Markdown and limited HTML, while optional statistics come from GitHub Readme Stats with light and dark variants.
+**Architecture:** The special `KanoNoUta/KanoNoUta` repository supplies the public profile through its root `README.md`. A deterministic Pillow script combines the existing GitHub avatar with a mint-and-sakura banner committed under `assets/`; the README uses GitHub-compatible Markdown and limited HTML without relying on third-party statistics services.
 
-**Tech Stack:** GitHub Profile README, Markdown, GitHub-compatible HTML, Python 3, Pillow, Shields.io, GitHub Readme Stats
+**Tech Stack:** GitHub Profile README, Markdown, GitHub-compatible HTML, Python 3, Pillow, Shields.io
 
 ---
 
@@ -170,22 +170,9 @@ I build practical AI gateways and agent tools, then give them a little anime sou
   </tr>
 </table>
 
-## GitHub at a glance / GitHub 一览
+## Current focus / 当前方向
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KanoNoUta&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ff7b9c&amp;text_color=c9d1d9&amp;icon_color=76c7c0">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KanoNoUta&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=17324a&amp;text_color=536b78&amp;icon_color=1e8f87">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=KanoNoUta&amp;show_icons=true&amp;hide_border=true" alt="KANO GitHub statistics">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KanoNoUta&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ff7b9c&amp;text_color=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KanoNoUta&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=17324a&amp;text_color=536b78">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanoNoUta&amp;layout=compact&amp;hide_border=true" alt="KANO most used languages">
-  </picture>
-</p>
-
-## Now / 现在
+`Protocol adapters` · `Agent tool loops` · `Local AI workflows`
 
 Building reliable protocol adapters and tool loops for coding agents.
 
@@ -215,7 +202,7 @@ $urls = Select-String -Path README.md -Pattern 'https://[^)" ]+' -AllMatches | F
 foreach ($url in $urls) { $clean = $url -replace '&amp;', '&'; $status = (Invoke-WebRequest $clean -Method Head -SkipHttpErrorCheck).StatusCode; "$status $clean" }
 ```
 
-Expected: repository, badge, and statistics URLs return HTTP 200 or a documented redirect response.
+Expected: repository and badge URLs return HTTP 200 or a documented redirect response.
 
 - [ ] **Step 4: Commit the README**
 
@@ -262,8 +249,8 @@ Open `https://github.com/KanoNoUta` and verify:
 - The banner loads and remains legible
 - The bilingual introduction appears directly below it
 - All three featured project links work
-- Statistics appear without horizontal overflow
-- The profile remains coherent if a statistics image is unavailable
+- The current-focus line wraps without horizontal overflow
+- GitHub's native contribution graph remains visible below the README
 
 - [ ] **Step 4: Record the final public URL**
 
