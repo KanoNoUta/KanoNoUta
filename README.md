@@ -1,20 +1,18 @@
 <p align="center">
-  <img src="assets/profile-banner-v3.png" alt="KANO - developer tools, gateways and local workflows" width="100%">
+  <img src="assets/profile-header.svg" alt="KANO developer profile with a character-art cherry blossom" width="100%">
 </p>
-
-## Hi, I'm KANO / 你好，我是 KANO
 
 I build practical developer tools and protocol gateways with a focus on reliable local workflows.
 
 我专注于实用的开发工具与协议网关，并持续打磨可靠的本地工作流。
 
-### Stack / 技术栈
+### Languages & Tools / 语言与工具
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ## Featured work / 精选项目
