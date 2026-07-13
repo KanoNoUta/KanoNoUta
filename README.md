@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header-v2.svg" alt="KANO developer profile with a character-art cherry blossom" width="100%">
+  <img src="assets/profile-header-summer.png" alt="KANO summer deer character banner" width="100%">
 </p>
 
 I build practical developer tools and protocol gateways with a focus on reliable local workflows.
