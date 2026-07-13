@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="KANO developer profile with a character-art cherry blossom" width="100%">
+  <img src="assets/profile-header-v2.svg" alt="KANO developer profile with a character-art cherry blossom" width="100%">
 </p>
 
 I build practical developer tools and protocol gateways with a focus on reliable local workflows.
 
-我专注于实用的开发工具与协议网关，并持续打磨可靠的本地工作流。
-
-### Languages & Tools / 语言与工具
+### Languages & Tools
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript">
@@ -15,38 +13,33 @@ I build practical developer tools and protocol gateways with a focus on reliable
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-## Featured work / 精选项目
+## Featured Work
 
 <table>
   <tr>
     <td colspan="2">
       <h3><a href="https://github.com/KanoNoUta/thief-neko">Thief Neko</a></h3>
       <p>A local protocol gateway and desktop controller for connecting development clients to custom services.</p>
-      <p>用于连接开发客户端与自定义服务的本地协议网关和桌面控制器。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/KanoNoUta/Gensokyo">Gensokyo</a></h3>
-      <p>A theme inspired by Gensokyo.</p>
-      <p>一款以幻想乡为灵感的主题。</p>
+      <h3><a href="https://github.com/PromeRotation/WebTimeline">WebTimeline</a></h3>
+      <p>A visual editor for PromeRotation ACR timelines.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/KanoNoUta/kanonouta-blog">Kano no Uta Blog</a></h3>
       <p>Development notes, experiments, and things worth remembering.</p>
-      <p>记录开发、实验与值得留下的片段。</p>
     </td>
   </tr>
 </table>
 
-## Current focus / 当前方向
+## Current Focus
 
 `Protocol adapters` · `Tool integrations` · `Local workflows`
 
 Building reliable protocol adapters and tool integrations for developer workflows.
 
-正在打磨更可靠的协议适配、工具集成与本地开发工作流。
-
 <p align="center">
-  <sub>Code with utility. Design with personality.<br>让工具真正有用，也让设计保留自己的性格。</sub>
+  <sub>今、思い出に僕は都落ち</sub>
 </p>
