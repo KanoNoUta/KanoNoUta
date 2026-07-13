@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner-v2.png" alt="KANO - developer tools, gateways and local workflows" width="100%">
+  <img src="assets/profile-banner-v3.png" alt="KANO - developer tools, gateways and local workflows" width="100%">
 </p>
 
 ## Hi, I'm KANO / 你好，我是 KANO
@@ -29,9 +29,9 @@ I build practical developer tools and protocol gateways with a focus on reliable
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/KanoNoUta/KanoACR">KanoACR</a></h3>
-      <p>Release repository for KANO PromeRotation ACR.</p>
-      <p>KANO PromeRotation ACR 的版本发布仓库。</p>
+      <h3><a href="https://github.com/KanoNoUta/Gensokyo">Gensokyo</a></h3>
+      <p>A theme inspired by Gensokyo.</p>
+      <p>一款以幻想乡为灵感的主题。</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/KanoNoUta/kanonouta-blog">Kano no Uta Blog</a></h3>
@@ -50,5 +50,5 @@ Building reliable protocol adapters and tool integrations for developer workflow
 正在打磨更可靠的协议适配、工具集成与本地开发工作流。
 
 <p align="center">
-  <sub>Code with utility. Design with clarity.<br>让工具真正有用，也让设计保持清晰。</sub>
+  <sub>Code with utility. Design with personality.<br>让工具真正有用，也让设计保留自己的性格。</sub>
 </p>
